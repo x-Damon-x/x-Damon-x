@@ -1,6 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently studying CompSci at WGU
-🔭 I’m currently working on something for families
+- 🌱 I’m currently studying CompSci at WGU
+- 🔭 I’m currently working on something for families
 <!--
 **x-Damon-x/x-Damon-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
